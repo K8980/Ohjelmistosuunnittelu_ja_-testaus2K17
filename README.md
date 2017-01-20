@@ -7,14 +7,13 @@ Tämä on harjoitustyön etusivu
 # XXXX-palvelun vaatimusmäärittely
 
 
-![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
+
 ![](https://i.ytimg.com/vi/KEkrWRHCDQU/sddefault.jpg)
 
 ### Tiedot
 
 * Nimimerkki
 * Versionumero X.Y.Z
-* [Linkki vaatimusmäärittelyyn](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittely.md)
+* [Linkki vaatimusmäärittelyyn](vaatimusmaarittely)
 
-![](https://i.ytimg.com/vi/KEkrWRHCDQU/sddefault.jpg)
 
