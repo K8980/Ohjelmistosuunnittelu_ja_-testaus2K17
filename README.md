@@ -9,6 +9,8 @@ Tämä on harjoitustyön etusivu
 
 
 ![](https://i.ytimg.com/vi/KEkrWRHCDQU/sddefault.jpg)
+![](https://i.imgur.com/vsZmk8Q.png)
+
 
 ### Tiedot
 
